@@ -25,7 +25,7 @@ I chose Bubble Sort because it creates a simple and visually intuitive animation
 - My goal is to produce a sort of "animation" displaying each swap occuring in the sorting. This will be a nice way to visually show the "bubbling" effect of bubble sort.
 
 ## Demo video/gif/screenshot of test
-
+https://github.com/user-attachments/assets/22bdb3c9-0047-45c6-adca-c4bc01b694ed
 
 ## Steps to Run
 1. Enter whole numbers seperated by commas (e.g. 3,4,2,1,8,4)
