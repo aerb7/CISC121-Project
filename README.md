@@ -24,6 +24,9 @@ I chose Bubble Sort because it creates a simple and visually intuitive animation
 - The GUI controls when sorting starts using a button and displays the evolving list states during the algorithm
 - My goal is to produce a sort of "animation" displaying each swap occuring in the sorting. This will be a nice way to visually show the "bubbling" effect of bubble sort.
 
+### Flowchart
+<img width="1983" height="1542" alt="Project Flowchart" src="https://github.com/user-attachments/assets/1b687df0-ac91-438b-ad54-305e182f7e62" />
+
 ## Demo video/gif/screenshot of test
 https://github.com/user-attachments/assets/22bdb3c9-0047-45c6-adca-c4bc01b694ed
 
